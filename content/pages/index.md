@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to At Ease!
     actions:
-      - label: Help me out!
+      - label: Find Help URGENTLY
         url: /find help now
         style: secondary
         icon_position: center
