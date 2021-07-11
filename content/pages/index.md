@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 8
     has_border: true
     background_image_position: right top
-    subtitle: "A serene haven fighting against domestic violence\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ we help victims of domestic violence , support survivors, train bystanders and teach the various technique perpetrators use"
+    subtitle: "A serene haven fighting against domestic violence\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ we help victims of domestic violence , support survivors, train bystanders and teach the various technique perpetrators use\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Here, you can feel AT EASE"
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
