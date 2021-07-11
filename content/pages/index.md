@@ -11,6 +11,7 @@ sections:
         url: /contact
         style: secondary
         icon_position: center
+        new_window: true
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
