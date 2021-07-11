@@ -62,14 +62,7 @@ export default class Announcement extends React.Component {
             >
                 <div className="container">
                     <div className="announcement-bar__content">
-                        <div
-                            className={classNames('announcement-bar__copy', {
-                                'text-center': anncmntAlignX === 'center',
-                                'text-right': anncmntAlignX === 'right'
-                            })}
-                        >
-                            {markdownify(anncmntContent)}
-                        </div>
+                        
                         {anncmntHasClose && (
                             <button
                                 aria-label="Close"
