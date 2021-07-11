@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to At Ease!
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
     actions:
       - label: Help me out!
         url: /contact
