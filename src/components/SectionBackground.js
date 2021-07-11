@@ -10,7 +10,4 @@ export default class SectionBackground extends React.Component {
         const backgroundImageOpacity = _.get(section, 'background_image_opacity', 100) * 0.01;
         const backgroundImageSize = _.get(section, 'background_image_size', 'cover');
         const backgroundImagePosition = _.get(section, 'background_image_position', 'center center');
-        const backgroundImageRepeat = _.get(section, 'background_image_repeat', 'no-repeat');
-
-        return (
-            
+        const backgroundImageRepeat = _.get(section, 'background_image_repeat', 'no-repeat')
