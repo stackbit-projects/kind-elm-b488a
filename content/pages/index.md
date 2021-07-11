@@ -9,6 +9,7 @@ sections:
         style: secondary
         icon_position: center
         new_window: true
+        has_icon: true
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
