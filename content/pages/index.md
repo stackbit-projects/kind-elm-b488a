@@ -5,7 +5,7 @@ sections:
     title: Welcome to At Ease!
     actions:
       - label: Help me out!
-        url: /contact
+        url: /
         style: secondary
         icon_position: center
         new_window: true
