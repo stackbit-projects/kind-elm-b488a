@@ -13,16 +13,7 @@ export default class SectionBackground extends React.Component {
         const backgroundImageRepeat = _.get(section, 'background_image_repeat', 'no-repeat');
 
         return (
-            <div
-                className="cover-img"
-                style={{
-                    backgroundImage: `url('${withPrefix(backgroundImage)}')`,
-                    opacity: backgroundImageOpacity,
-                    backgroundSize: backgroundImageSize,
-                    backgroundPosition: backgroundImagePosition,
-                    backgroundRepeat: backgroundImageRepeat
-                }}
-            />
+            
         );
     }
 }
