@@ -15,5 +15,5 @@ export default class SectionBackground extends React.Component {
         return (
             
         
-    }
+    
 }
