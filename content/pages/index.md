@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 8
     has_border: true
     background_image_position: right top
-    subtitle: A serene orei
+    subtitle: 'A serene haven '
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
