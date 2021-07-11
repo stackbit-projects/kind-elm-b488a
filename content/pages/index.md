@@ -10,7 +10,7 @@ sections:
         icon_position: center
         new_window: true
         has_icon: true
-    image: images/hero.png
+    image: /images/Adalee Naturals.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
