@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: At Ease is a web-based
     features:
-      - title: Educate Yourself
+      - title: Educate Yourself !
         content: |
           ***" If you want to be powerful, Educate Yourself "***
         actions:
