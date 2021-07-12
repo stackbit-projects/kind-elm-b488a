@@ -59,7 +59,7 @@ sections:
         image: /images/section 2.jpg
         image_alt: Feature 2 illustration
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
       - title: Technical Content
         subtitle: 'Your products and services, at scale.'
         content: >-
