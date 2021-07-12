@@ -56,7 +56,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/section 2.jpg
+        image: /images/IMG_2200.jpg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: fourty
