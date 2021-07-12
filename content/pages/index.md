@@ -31,7 +31,7 @@ sections:
         content: |
           Varied courses 
         actions:
-          - label: See Writing Samples
+          - label: Explore Courses
             url: /faq
             style: primary
             has_icon: true
