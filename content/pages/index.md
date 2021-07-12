@@ -50,8 +50,7 @@ sections:
           products look great, sound great, and sell more on your choice of
           ecommerce platform.
         actions:
-          - label: Learn More
-            url: /about
+          - url: /about
             style: secondary
             has_icon: true
             icon: arrow-right
