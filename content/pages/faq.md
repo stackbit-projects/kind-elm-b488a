@@ -3,7 +3,6 @@ title: FAQ
 sections:
   - type: hero_section
     title: Educate Yourself
-    subtitle: My answers
     align: center
     padding_top: medium
     padding_bottom: small
