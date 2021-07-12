@@ -63,7 +63,7 @@ sections:
       - title: ' Therapy Sessions'
         subtitle: Free online therapy sessions
         content: |
-          ***" Tough times don't last. Tough people do" - Dr Robert Schuller***
+          > ***Tough times don't last. Tough people do - Dr Robert Schuller***
         actions:
           - label: "Book\_ Sessions"
             url: /faq
