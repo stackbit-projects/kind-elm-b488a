@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: At Ease is a web-based
     features:
-      - title: Content Creation
+      - title: Educate Yourself
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
