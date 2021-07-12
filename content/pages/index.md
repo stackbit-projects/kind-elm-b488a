@@ -37,7 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/section 1 again.png
+        image: /images/nervous-lime.jfif
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
