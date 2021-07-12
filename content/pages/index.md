@@ -41,7 +41,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        subtitle: Diverse video and article intuitive courses
+        subtitle: Diverse video and article intuitive courses i
         align: center
       - title: Safe Room
         subtitle: we're a family
