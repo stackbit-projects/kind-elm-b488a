@@ -48,7 +48,7 @@ sections:
         media_position: right
         media_width: sixty
         subtitle: 'As a victim, bystander and a survivor'
-        align: center
+        align: left
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
