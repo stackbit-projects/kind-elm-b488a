@@ -55,7 +55,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-            label: Let's begin
+            label: Ready when you are
         image: /images/IMG_2200 - Copy.jpg
         image_alt: Feature 2 illustration
         media_position: right
