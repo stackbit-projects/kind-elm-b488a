@@ -62,7 +62,7 @@ sections:
         media_width: thirty-three
         align: center
       - title: ' Therapy Sessions'
-        subtitle: Free online therapy sessions
+        subtitle: Free online therapy sessions for everyone in need of therapy
         content: |
           > ***Tough times don't last. Tough people do - Dr Robert Schuller***
         actions:
