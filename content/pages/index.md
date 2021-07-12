@@ -59,7 +59,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: thirty-three
-        align: left
+        align: center
       - title: ' Therapy Sessions'
         subtitle: Free online therapy sessions
         content: |
