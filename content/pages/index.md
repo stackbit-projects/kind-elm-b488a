@@ -28,8 +28,9 @@ sections:
     title: At Ease is a web-based
     features:
       - title: Educate Yourself !
-        content: |
-          ***" If you want to be powerful, Educate Yourself "***
+        content: >
+          > ***Education is the most powerful weapon which you can use to change
+          your world - Nelson Mandela***
         actions:
           - label: Explore Courses
             url: /faq
