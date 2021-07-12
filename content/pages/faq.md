@@ -9,7 +9,7 @@ sections:
     background_color: none
     subtitle: >-
       Education is the most powerful weapon which you can use to change your
-      world 
+      world - Nelson Mandela
   - type: grid_section
     grid_items:
       - title: What is your process?
