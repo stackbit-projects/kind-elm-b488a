@@ -28,10 +28,8 @@ sections:
     title: At Ease is a web-based
     features:
       - title: Educate Yourself
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: |
+          Varied courses 
         actions:
           - label: See Writing Samples
             url: /faq
