@@ -46,8 +46,8 @@ sections:
       - title: Your Safe Room
         subtitle: Anonymously discuss
         content: >
-          ***" Anything is possible when you have the right people there to
-          support you "              - Misty Copeland***
+          ***  " Anything is possible when you have the right people there to
+          support you "       - Misty Copeland***
         actions:
           - url: /about
             style: primary
