@@ -45,10 +45,9 @@ sections:
         align: center
       - title: Your Safe Room
         subtitle: Anonymously discuss
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          ***" Anything is possible when you have the right people there to
+          support you" - Misty Copeland***
         actions:
           - url: /about
             style: primary
