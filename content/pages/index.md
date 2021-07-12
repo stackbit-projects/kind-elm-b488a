@@ -30,6 +30,12 @@ sections:
       - title: Educate Yourself
         content: |
           Varied video and article  courses
+
+
+
+
+
+          If you want to be powerful, first, Educate Yourself
         actions:
           - label: Explore Courses
             url: /faq
