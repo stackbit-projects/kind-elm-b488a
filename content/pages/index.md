@@ -43,7 +43,7 @@ sections:
         media_width: sixty
         subtitle: Diverse video and article intuitive courses i
         align: center
-      - title: Safe Room
+      - title: Your Safe Room
         subtitle: we're a family
         content: >-
           Managing an online business is a full-time job. I will make sure your
