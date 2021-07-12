@@ -39,7 +39,7 @@ sections:
             icon_position: right
         image: /images/nervous-lime.jfif
         image_alt: Feature 1 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
         subtitle: Varied video and article courses
         align: center
