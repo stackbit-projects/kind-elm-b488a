@@ -81,7 +81,7 @@ sections:
     background_color: none
     subtitle: >-
       At Ease is a web-based and mobile app that helps victims & victims of
-      domestic violence, It constitutes di
+      domestic violence, It constitutes varied courses
   - type: form_section
     content: >-
       ## Let's talk
