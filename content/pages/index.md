@@ -6,7 +6,7 @@ sections:
     actions:
       - label: Need Help URGENTLY !
         url: /find help urgently
-        style: secondary
+        style: primary
         icon_position: center
         new_window: true
         has_icon: true
