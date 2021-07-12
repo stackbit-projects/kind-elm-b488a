@@ -29,7 +29,7 @@ sections:
     features:
       - title: Educate Yourself
         content: |
-          Varied courses 
+          Varied video and article  courses
         actions:
           - label: Explore Courses
             url: /faq
