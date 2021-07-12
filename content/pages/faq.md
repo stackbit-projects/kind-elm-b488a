@@ -10,6 +10,15 @@ sections:
     subtitle: >-
       Education is the most powerful weapon which you can use to change your
       world - Nelson Mandela
+    content: >
+      Over at this section, there are varied video and article insightful
+      courses with different durations and minimum of 5 minutes to test your
+      knowledge 
+
+
+
+
+      Let's Get into it!
   - type: grid_section
     grid_items:
       - title: What is your process?
