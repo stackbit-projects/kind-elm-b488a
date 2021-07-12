@@ -6,7 +6,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: small
-    background_color: secondary
+    background_color: none
     subtitle: >-
       Education is the most powerful weapon which you can use to change your
       world - Nelson Mandela
