@@ -43,7 +43,7 @@ sections:
         media_width: sixty
         subtitle: Varied video and article courses
         align: center
-      - title: Online Store Management
+      - title: Safe Room
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
           Managing an online business is a full-time job. I will make sure your
