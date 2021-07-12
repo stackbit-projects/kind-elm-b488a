@@ -60,7 +60,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: thirty-three
-        align: center
+        align: left
       - title: ' Therapy Sessions'
         subtitle: 'Your products and services, at scale.'
         content: >-
