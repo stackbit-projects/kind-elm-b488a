@@ -45,7 +45,7 @@ sections:
         subtitle: Diverse video and article intuitive courses i
         align: center
       - title: Your Safe Room
-        subtitle: Anonymously discuss
+        subtitle: "Anonymously discuss problems & receive advice, pour your heart out (no advice needed)\_ and share your point of view on various topics & problems"
         content: >
           > ***Anything is possible when you have the right people there to
           support you  Misty Copeland***
