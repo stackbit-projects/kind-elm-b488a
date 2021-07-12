@@ -41,7 +41,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        subtitle: Varied video and article courses
+        subtitle: "Diverse\_ video and article courses"
         align: center
       - title: Safe Room
         subtitle: we're a family
