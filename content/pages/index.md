@@ -68,7 +68,7 @@ sections:
         actions:
           - label: See Past Work
             url: /faq
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
