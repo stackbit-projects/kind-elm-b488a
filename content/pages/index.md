@@ -47,7 +47,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        subtitle: 'As a victim, bystander and a survivor'
+        subtitle: Varied video and article courses
         align: center
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
