@@ -79,7 +79,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: At Ease is a web-based
+    subtitle: At Ease is a web-based and mobile app
   - type: form_section
     content: >-
       ## Let's talk
