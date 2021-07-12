@@ -79,7 +79,9 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: At Ease is a web-based and mobile app
+    subtitle: >-
+      At Ease is a web-based and mobile app that helps victims & victims of
+      domestic violence
   - type: form_section
     content: >-
       ## Let's talk
