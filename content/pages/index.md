@@ -62,7 +62,7 @@ sections:
         media_width: thirty-three
         align: left
       - title: ' Therapy Sessions'
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Free online therapy sessions
         content: |
           ***" Tough times don't last. Tough people do" - Dr Robert Schuller***
         actions:
