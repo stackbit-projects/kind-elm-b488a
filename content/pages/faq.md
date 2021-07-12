@@ -7,7 +7,9 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: none
-    subtitle: 'Education is the most powerful weapon which you can use to '
+    subtitle: >-
+      Education is the most powerful weapon which you can use to change your
+      world 
   - type: grid_section
     grid_items:
       - title: What is your process?
