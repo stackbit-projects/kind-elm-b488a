@@ -44,7 +44,7 @@ sections:
         subtitle: Diverse video and article intuitive courses i
         align: center
       - title: Your Safe Room
-        subtitle: we're a family
+        subtitle: Anonymously discuss
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
