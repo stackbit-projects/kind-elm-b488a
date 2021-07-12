@@ -29,9 +29,7 @@ sections:
     features:
       - title: Educate Yourself
         content: |
-
-
-          ***If you want to be powerful, Educate Yourself***
+          ***" If you want to be powerful, Educate Yourself "***
         actions:
           - label: Explore Courses
             url: /faq
