@@ -66,7 +66,7 @@ sections:
         content: |
           ***" Tough times don't last. Tough people do" - Dr Robert Schuller***
         actions:
-          - label: Book Free Sessions
+          - label: "Book\_ Sessions"
             url: /faq
             style: secondary
             has_icon: true
