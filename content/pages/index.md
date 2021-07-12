@@ -51,7 +51,7 @@ sections:
           ecommerce platform.
         actions:
           - url: /about
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
